@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic>=2,<3
+langdetect
+deep-translator
+beautifulsoup4
+requests
+sentence-transformers>=3.0.0
+faiss-cpu==1.8.0
+langgraph
+httpx
+tenacity
+numpy
